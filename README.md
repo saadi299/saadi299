@@ -52,7 +52,7 @@
 
 ---
 
-### ✨ Featured Projects (Pin These)
+### ✨ Featured Projects 
 
 | Project | Description |
 |--------|-------------|
