@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | React • Next.js • Django • Microservices</h3>
 
 <p align="center">
-  <strong>5 years of experience building scalable web applications, REST APIs, and microservice-based systems.</strong><br />
+  <strong>4 years of experience building scalable web applications, REST APIs, and microservice-based systems.</strong><br />
   Passionate about clean code, robust architecture, and solving real-world problems with elegant software solutions.
 </p>
 
